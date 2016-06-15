@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [com.mitchell.vehicle.daoTest.VehicleTest]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="com.mitchell.vehicle.daoTest.VehicleTest">
+        <methods>
+          <include name="getVehicleByProperty"/>
+          <include name="removeVehicle"/>
+        </methods>
+      </class> <!-- com.mitchell.vehicle.daoTest.VehicleTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.mitchell.vehicle.daoTest.VehicleTest] -->

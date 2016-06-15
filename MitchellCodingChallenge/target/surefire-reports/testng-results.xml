@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.mitchell.vehicle.daoTest.VehicleTest" duration-ms="850" started-at="2016-06-15T09:21:01Z" finished-at="2016-06-15T09:21:01Z">
+    <groups>
+      <group name="VehicleTest">
+        <method signature="VehicleTest.addVehicle()[pri:0, instance:com.mitchell.vehicle.daoTest.VehicleTest@4c203ea1]" name="addVehicle" class="com.mitchell.vehicle.daoTest.VehicleTest"/>
+        <method signature="VehicleTest.getVehicle()[pri:0, instance:com.mitchell.vehicle.daoTest.VehicleTest@4c203ea1]" name="getVehicle" class="com.mitchell.vehicle.daoTest.VehicleTest"/>
+        <method signature="VehicleTest.getVehicleByProperty()[pri:0, instance:com.mitchell.vehicle.daoTest.VehicleTest@4c203ea1]" name="getVehicleByProperty" class="com.mitchell.vehicle.daoTest.VehicleTest"/>
+        <method signature="VehicleTest.getVehicles()[pri:0, instance:com.mitchell.vehicle.daoTest.VehicleTest@4c203ea1]" name="getVehicles" class="com.mitchell.vehicle.daoTest.VehicleTest"/>
+      </group> <!-- VehicleTest -->
+    </groups>
+    <test name="Command line test" duration-ms="850" started-at="2016-06-15T09:21:01Z" finished-at="2016-06-15T09:21:01Z">
+      <class name="com.mitchell.vehicle.daoTest.VehicleTest">
+        <test-method status="PASS" signature="addVehicle()[pri:0, instance:com.mitchell.vehicle.daoTest.VehicleTest@4c203ea1]" name="addVehicle" duration-ms="456" started-at="2016-06-15T02:21:01Z" finished-at="2016-06-15T02:21:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addVehicle -->
+        <test-method status="PASS" signature="getVehicle()[pri:0, instance:com.mitchell.vehicle.daoTest.VehicleTest@4c203ea1]" name="getVehicle" duration-ms="144" started-at="2016-06-15T02:21:01Z" finished-at="2016-06-15T02:21:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getVehicle -->
+        <test-method status="PASS" signature="getVehicleByProperty()[pri:0, instance:com.mitchell.vehicle.daoTest.VehicleTest@4c203ea1]" name="getVehicleByProperty" duration-ms="116" started-at="2016-06-15T02:21:01Z" finished-at="2016-06-15T02:21:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getVehicleByProperty -->
+        <test-method status="PASS" signature="getVehicles()[pri:0, instance:com.mitchell.vehicle.daoTest.VehicleTest@4c203ea1]" name="getVehicles" duration-ms="75" started-at="2016-06-15T02:21:01Z" finished-at="2016-06-15T02:21:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getVehicles -->
+      </class> <!-- com.mitchell.vehicle.daoTest.VehicleTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.mitchell.vehicle.daoTest.VehicleTest -->
+</testng-results>
